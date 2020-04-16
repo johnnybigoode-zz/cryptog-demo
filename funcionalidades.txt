@@ -1,0 +1,12 @@
+Sumário das funcionalidades:
+
+* O Usuário podera escolher qual metodo criptografico utilizar (Simétrico ou
+Assimetrico)
+* Deve ser utilizado o algoritimo DES para a opção de criptografia simétrica;
+* Deve ser utilizado o algoritimo RSA para a opção de criptografia assimétrica;
+* Em ambas opções:
+- O Usuario poderá escolher entre criptografar ou descriptografar a msg.
+- O Usuario deverá digitar o texto que será crifrado ou decifrado;
+- Além da msg, o usuário deverá digitar a chave (no caso do RSA, pode ser informado
+apenas os dois numeros primos para a geração das chaves);
+O algoritmo pode ser desenvolvido na linguagem de programação de sua preferência.
